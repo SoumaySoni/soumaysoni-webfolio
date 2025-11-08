@@ -17,9 +17,10 @@ export default function Home() {
             <p className="mt-6 max-w-2xl text-base md:text-lg text-gray-400 leading-relaxed animate-fade-in-delay2">
                 I specialize in building{" "}
                 <span className="text-blue-400 font-semibold">modern web applications</span> using
-                <span className="text-indigo-400 font-semibold"> React</span>,{" "}
+                <span className="text-orange-400 font-semibold"> Reactjs</span>,{" "}
+                <span className="text-pink-400 font-semibold"> Nextjs</span>,{" "}
                 <span className="text-teal-400 font-semibold">Node.js</span>, and{" "}
-                <span className="text-green-400 font-semibold">MongoDB</span>. <br />
+                <span className="text-red-400 font-semibold">MongoDB</span>. <br />
                 I love creating elegant, responsive, and performance-driven UI experiences.
             </p>
 
